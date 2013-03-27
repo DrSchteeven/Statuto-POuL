@@ -1,9 +1,9 @@
 Statuto Associazione Culturale POuL - Politecnico Open unix Labs
 
 Art. 1 - Denominazione e sede
-È costituita l'associazione culturale studentesca “POuL” - “Politecnico Open unix Labs”
+È costituita l'associazione culturale studentesca senza scopo di lucro “POuL” - “Politecnico Open unix Labs”
 (entrambe le diciture sono valide e alternative), d'ora in avanti per brevità “l'Associazione”.
-La sede dell'Associazione è sita nel polo di Milano Leonardo del Politecnico di Milano.
+La sede dell'Associazione è sita nel Politecnico di Milano.
 
 
 Art. 2 - Scopo
@@ -27,8 +27,8 @@ E' costituito il Registro Unico dei Membri (RUM) composto delle seguenti sezioni
  - Soci Ordinari
  - Soci Onorari
 
-Possono far parte dell'Associazione, in qualità di Soci Ordinari, le persone che ne facciano richiesta all'assemblea costituita, senza discriminazioni di sorta, previa dichiarazione di Nome Cognome e Matricola autentici.
-Possono far parte dell'Associazione in qualità di Soci con Diritto di Voto, i Soci Ordinari che ne facciano richiesta all'assemblea costituita, se in possesso di adeguati requisiti di continuità valutati positivamente dall'assemblea stessa.
+Possono far parte dell'Associazione, in qualità di Soci Ordinari, le persone che ne facciano richiesta all'assemblea costituita, senza votazione, senza discriminazioni di sorta, previa dichiarazione di Nome e Cognome autentici.
+Possono far parte dell'Associazione in qualità di Soci con Diritto di Voto, i Soci Ordinari che ne facciano richiesta all'assemblea costituita, se in possesso di adeguati requisiti di continuità valutati positivamente con votazione dall'assemblea stessa.
 
 
 Art. 5 - Diritti dei soci
@@ -49,7 +49,8 @@ I Soci cessano di appartenere all'Associazione nei seguenti casi:
  - radiazione deliberata dal Consiglio Direttivo.
 
 Il Socio radiato non può essere riammesso nell'Associazione senza l'approvazione del Consiglio Direttivo.
-In caso di assenza prolungata dalla normale attività dell'associazione un Socio con Diritto di Voto può, su delibera dell'assemblea, perdere il diritto di voto.
+Dopo un periodo di tempo superiore o uguale ad 1 (un) anno di assenza dall'ultima riunione, un Socio con Diritto di Voto, perde il diritto di voto tornando ad essere Socio Ordinario.
+Il Socio precedentemente privato del diritto di voto, può riacquisirlo ad una riunione successiva, previa votazione dell'assemblea costituita. 
 
 
 Art. 8 - Bilancio
@@ -62,7 +63,6 @@ Esso deve essere depositato presso la sede dell'Associazione entro i 15 giorni p
 Art. 9 - Organi
 Gli organi sociali sono:
  - l'Assemblea dei Soci;
- - il Presidente;
  - il Consiglio Direttivo.
 
 
@@ -80,30 +80,29 @@ L'Assemblea deve essere convocata almeno una volta all'anno per:
  - deliberare in merito al rapporto con altre associazioni e organi istituzionali;
  - approvare il bilancio preventivo e consuntivo.
 
-All'apertura di ogni seduta l'assemblea elegge un Presidente ed un Segretario che dovranno sottoscrivere il verbale finale.
-
 
 Art. 12 - Validità assembleare
-L'Assemblea è validamente costituita in prima convocazione con la presenza della maggioranza assoluta del Consiglio Direttivo e delibera validamente con voto favorevole della maggioranza dei Soci con Diritto di Voto presenti; in caso di parità prevale il voto del Presidente.
+L'Assemblea è validamente costituita in prima convocazione con la presenza della maggioranza assoluta del Consiglio Direttivo (in presenza fisica) e delibera validamente con voto favorevole della maggioranza dei Soci con Diritto di Voto presenti; in caso di parità prevale il voto del Presidente.
 Ogni socio con Diritto di Voto può, nel periodo compreso tra la convocazione dell'Assemblea e l'Assemblea stessa, delegare a una sola persona l'espressione del suo voto, o proporre il suo voto nella mailing list ufficiale.
+I soci in telepresenza hanno gli stessi diritti dei soci fisicamente presenti. I soci in telepresenza liberano il Consiglio Direttivo e l'Assemblea da ogni responsabilità relativa all'impossibilità di votare, partecipare o ricevere la parola in assemblea per problemi tecnici.
 Il Consiglio Direttivo può eventualmente decidere la ridiscussione di una delibera a seguito di un significativo numero di pareri contrastanti adeguatamente motivati.
 
 
 Art. 13 - Consiglio Direttivo
 Il Consiglio Direttivo è composto da un minimo di tre membri, eletti dall'Assemblea, e nel proprio ambito nomina il Presidente, il Vicepresidente ed il Segretario con funzioni di Tesoriere.
 Tutti gli incarichi sociali si intendono esclusivamente a titolo gratuito.
-Il Consiglio Direttivo rimane in carica 1 (un) anno ed i suoi componenti sono rieleggibili.
+Il Consiglio Direttivo rimane in carica massimo 1 (un) anno ed i suoi componenti sono rieleggibili.
 Le delibere verranno adottate a maggioranza. In caso di parità prevarrà il voto del Presidente.
 
 
 Art. 14 - Dimissioni
 Nel caso in cui, per qualsiasi ragione, durante il corso dell'esercizio venissero a mancare uno o più Consiglieri, i rimanenti provvederanno alla convocazione dell'Assemblea dei soci per surrogare i mancanti.
-I nuovi Consiglieri rimarranno in carica fino alla naturale scadenza del Consiglio Direttivo.
+I nuovo Consiglio Direttivo rimarrà in carica per massimo 1 (un) anno ed i suoi componenti sono rieleggibili.
 Il Consiglio Direttivo dovrà considerarsi sciolto e non più in carica qualora, per dimissioni o per qualsiasi altra causa, venga a perdere la maggioranza dei suoi componenti. In questo caso l'Assemblea verrà convocata dai soci che ne facciano richiesta.
 
 
 Art. 15 - Convocazione del Consiglio Direttivo
-Il Consiglio Direttivo si riunisce ogni volta che il Presidente lo ritenga necessario, oppure che ne sia fatta richiesta da almeno un Consigliere, senza formalità.
+Il Consiglio Direttivo si riunisce ogni volta che il Presidente lo ritenga necessario, oppure che ne sia fatta richiesta da almeno uno dei suoi membri, senza formalità.
 
 
 Art. 16 - Compiti del Consiglio Direttivo
@@ -148,8 +147,8 @@ L'Associazione non ha scopo di lucro. Durante la vita dell'Associazione non potr
 
 
 Art. 21 - Scioglimento
-Lo scioglimento dell'Associazione è deliberato in prima istanza dall'Assemblea dei Soci con l'approvazione di almeno 4/5 dei soci.
-L'Assemblea, all'atto di scioglimento dell'Associazione, delibererà in merito alla destinazione dell'eventuale residuo attivo del patrimonio dell'Associazione.
+Lo scioglimento dell'Associazione è deliberato in prima istanza dall'Assemblea dei Soci con l'approvazione di almeno 4/5 dei Soci Votanti.
+L'Assemblea, all'atto di sciogliemnto dell'Associazione, restituirà tutti i beni ricevuti dal Politecnico di Milano e delibererà in merito alla destinazione del rimanente eventuale residuo attivo del patrimonio dell'Associazione.
 
 
 Art. 22 - Norme Finali
