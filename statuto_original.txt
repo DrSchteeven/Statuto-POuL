@@ -22,7 +22,7 @@ La durata dell'Associazione è illimitata; l'Associazione potrà essere sciolta 
 
 
 Art. 4 - Domanda di ammissione
-E' costituito il Registro Unico dei Membri (RUM) composto delle seguenti sezioni
+È costituito il Registro Unico dei Membri (RUM) composto delle seguenti sezioni
  - Soci con Diritto di Voto
  - Soci Ordinari
  - Soci Onorari
@@ -40,7 +40,9 @@ Tutti i Soci con Diritto di Voto possono votare per:
 
 Art. 6 - Doveri dei soci
 Tutti i Soci sono tenuti a rispettare le norme del presente Statuto e le norme etiche di cui l'Associazione si fa promotrice, secondo le deliberazioni assunte dagli organi preposti.
-In caso di comportamento difforme, che rechi pregiudizio agli scopi o al patrimonio dell'associazione o che sia lesivo della dignità personale, il Consiglio Direttivo dovrà intervenire ed applicare le seguenti sanzioni: richiamo, radiazione dall'Associazione.
+In caso di comportamento difforme, che rechi pregiudizio agli scopi o al patrimonio dell'associazione o che sia lesivo della dignità personale, il Consiglio Direttivo dovrà intervenire ed applicare le seguenti sanzioni:
+ -richiamo;
+ -radiazione dall'Associazione.
 
 
 Art. 7 - Decadenza dei soci
