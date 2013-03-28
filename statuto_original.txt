@@ -14,6 +14,7 @@ L'Associazione ha per obiettivo:
  - pubblicare e diffondere materiale informativo, didattico, critico e saggistico;
  - organizzare e partecipare a conferenze, seminari e manifestazioni, per la promozione dei principi dell'Associazione e come invito all'elaborazione di idee innovative;
  - aprire forme di collaborazione con altri enti, associazioni o realtà istituzionali per portare avanti i propri principi;
+ - promuovere attività culturali e sociali a beneficio degli studenti del Politecnico di Milano;
  - promuovere in generale una cultura improntata all'esperienza diretta, alla libera circolazione delle informazioni, al rifiuto dell'autoritarismo, alla promozione del merito e al rifiuto di restrizioni di razza, colore, sesso, religione, estrazione sociale.
 
 
@@ -40,6 +41,7 @@ Tutti i Soci con Diritto di Voto possono votare per:
 
 Art. 6 - Doveri dei soci
 Tutti i Soci sono tenuti a rispettare le norme del presente Statuto e le norme etiche di cui l'Associazione si fa promotrice, secondo le deliberazioni assunte dagli organi preposti.
+I soci partecipano attivamente all'attività dell'associazione prendendovi parte e usufruendo dei benefici e servizi dell'associazione stessa.
 In caso di comportamento difforme, che rechi pregiudizio agli scopi o al patrimonio dell'associazione o che sia lesivo della dignità personale, il Consiglio Direttivo dovrà intervenire ed applicare le seguenti sanzioni:
  -richiamo;
  -radiazione dall'Associazione.
@@ -91,7 +93,11 @@ Il Consiglio Direttivo può eventualmente decidere la ridiscussione di una delib
 
 
 Art. 13 - Consiglio Direttivo
-Il Consiglio Direttivo è composto da un minimo di tre membri, eletti dall'Assemblea, e nel proprio ambito nomina il Presidente, il Vicepresidente ed il Segretario con funzioni di Tesoriere.
+Il Consiglio Direttivo è composto da un minimo di tre membri, eletti dall'Assemblea:
+ - il Presidente;
+ - il Vicepresidente;
+ - il Segretario con funzioni di Tesoriere.
+I membri del Consiglio Direttivo devono essere studenti regolarmente iscritti al Politecnico di Milano.
 Tutti gli incarichi sociali si intendono esclusivamente a titolo gratuito.
 Il Consiglio Direttivo rimane in carica massimo 1 (un) anno ed i suoi componenti sono rieleggibili.
 Le delibere verranno adottate a maggioranza. In caso di parità prevarrà il voto del Presidente.
