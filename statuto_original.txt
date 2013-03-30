@@ -3,7 +3,7 @@ Statuto Associazione Culturale POuL - Politecnico Open unix Labs
 Art. 1 - Denominazione e sede
 È costituita l'associazione culturale studentesca senza scopo di lucro “POuL” - “Politecnico Open unix Labs”
 (entrambe le diciture sono valide e alternative), d'ora in avanti per brevità “l'Associazione”.
-La sede dell'Associazione è sita nel Politecnico di Milano.
+La sede dell'Associazione è sita nel Politecnico di Milano, Piazza Leonardo da Vinci 32, 20133 Milano.
 
 
 Art. 2 - Scopo
@@ -30,7 +30,7 @@ Art. 4 - Domanda di ammissione
 
 Possono far parte dell'Associazione, in qualità di Soci Ordinari, le persone che ne facciano richiesta all'assemblea costituita, senza votazione, senza discriminazioni di sorta, previa dichiarazione di Nome e Cognome autentici.
 Possono far parte dell'Associazione in qualità di Soci con Diritto di Voto, i Soci Ordinari che ne facciano richiesta all'assemblea costituita, se in possesso di adeguati requisiti di continuità valutati positivamente con votazione dall'assemblea stessa.
-
+Possono far parte dell'Associazione in qualità di Soci Onorari, i Soci che hanno smesso di essere studenti presso il Politecnico di Milano e che si sono tuttavia distinti per il loro contributo alla vita ed alle attività dell'Associazione. La nomina di Socio Onorario è conferita tramite votazione dall'assemblea.
 
 Art. 5 - Diritti dei soci
 Tutti i Soci hanno diritto di espressione nell'Assembea dei Soci.
@@ -97,6 +97,7 @@ Il Consiglio Direttivo è composto da un minimo di tre membri, eletti dall'Assem
  - il Presidente;
  - il Vicepresidente;
  - il Segretario con funzioni di Tesoriere.
+Nel caso venga ritenuta necessaria da parte dell'Assemblea una ulteriore divisione delle mansioni oltre a quella sopra descritta, è possibile espandere il Consiglio Direttivo fino ad un massimo di 7 membri.
 I membri del Consiglio Direttivo devono essere studenti regolarmente iscritti al Politecnico di Milano.
 Tutti gli incarichi sociali si intendono esclusivamente a titolo gratuito.
 Il Consiglio Direttivo rimane in carica massimo 1 (un) anno ed i suoi componenti sono rieleggibili.
